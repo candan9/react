@@ -1,0 +1,23 @@
+{
+
+    "users":[
+        {
+            "id":"unique-1",
+            "name":"EMRE",
+            "salary":"500",
+            "department":"bilisim"
+        },
+        {
+            "id":"unique-2",
+            "name":"EaMRE",
+            "salary":"5005",
+            "department":"bilisim"
+        },
+        {
+            "id":"unique-3",
+            "name":"mehmet",
+            "salary":"5050",
+            "department":"bilisim"
+        }
+    ]
+}
